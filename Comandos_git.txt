@@ -8,9 +8,12 @@ cd Deteccion_de_Anomalias_y_Fraude_en_Transacciones---Diplomado-en-Ciencia-de-da
 
 git checkout -b TU_RAMA
 
+git checkout -b Abril
+
+
 #CAMBIA DE RAMA
 
-git switch TU_RAMA
+git switch Abril
 
 3. Subir la rama al repositorio remoto (solo una vez)
 git push -u origin TU_RAMA
@@ -22,18 +25,23 @@ git config --global user.email "angelsosa@ciencias.unam.mx"
 
 
 
-
+#--------------------------------------------------------------
 Actualizar cambios del repositorio
 git pull
 
+
+#--------
+cambios
+#------
 
 
 CADA QUE NECESITES HACER CAMBIOS
 #GUARDAR CAMBIOS
 git add .
 
+
 #Agrega descripcion
-git commit -m "importar_data"
+git commit -m "prueba"
 
 git push
 
