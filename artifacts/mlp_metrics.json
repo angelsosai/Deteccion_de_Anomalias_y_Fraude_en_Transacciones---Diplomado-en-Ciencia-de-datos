@@ -1,0 +1,15 @@
+{
+  "mlp_pr_auc": 0.7698085408929316,
+  "mlp_roc_auc": 0.9743857165826375,
+  "adaboost_pr_auc": 0.7624206727756818,
+  "adaboost_roc_auc": 0.9785777809998506,
+  "xgboost_pr_auc": 0.8756065601670232,
+  "xgboost_roc_auc": 0.9782680552524893,
+  "random_forest_pr_auc": 0.8630380462257068,
+  "random_forest_roc_auc": 0.9712748211271003,
+  "best_threshold": 0.938944935798645,
+  "best_val_pr_auc": 0.6940517073926467,
+  "mlp_robustez_mean": 0.770507331513799,
+  "mlp_robustez_std": 0.012856753538406198,
+  "seed": 42
+}
