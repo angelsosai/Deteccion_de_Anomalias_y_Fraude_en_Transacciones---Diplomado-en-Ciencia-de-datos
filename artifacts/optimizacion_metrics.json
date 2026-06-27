@@ -1,0 +1,23 @@
+{
+  "xgboost_optimizado_pr_auc": 0.8768351836947235,
+  "xgboost_optimizado_roc_auc": 0.9743202183799801,
+  "best_xgb_params": {
+    "subsample": 0.8,
+    "n_estimators": 500,
+    "max_depth": 5,
+    "learning_rate": 0.05
+  },
+  "mlp_optimizado_pr_auc": 0.7052229447528409,
+  "mlp_optimizado_roc_auc": 0.9737181732569223,
+  "best_mlp_config": {
+    "hidden_dims": [
+      64,
+      32,
+      16
+    ],
+    "dropout": 0.4,
+    "lr": 0.0005,
+    "name": "Red Profunda (Alto Dropout)"
+  },
+  "seed": 42
+}
