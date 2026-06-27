@@ -7,8 +7,8 @@
     "max_depth": 5,
     "learning_rate": 0.05
   },
-  "mlp_optimizado_pr_auc": 0.7052229447528409,
-  "mlp_optimizado_roc_auc": 0.9737181732569223,
+  "mlp_optimizado_pr_auc": 0.7061791237872362,
+  "mlp_optimizado_roc_auc": 0.963838083418511,
   "best_mlp_config": {
     "hidden_dims": [
       64,
